@@ -1,5 +1,5 @@
 # react-component-boilerplate
-Boilerplate setup to build a React component for NPM
+A boilerplate setup to build a React component that can immediately be made into a module. See commands below to get set up.
 
 ## Set up with the following commands
 
