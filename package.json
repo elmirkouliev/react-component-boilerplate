@@ -1,5 +1,5 @@
 {
-  "name": "react-component-boilerplate",
+  "name": "react-npm-starterpack",
   "version": "1.0.0",
   "description": "Simple way to get cross street completions from the Google Maps API",
   "main": "build/main.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elmirkouliev/react-googlemaps-crossstreet.git"
+    "url": "git+https://github.com/elmirkouliev/react-component-boilerplate.git"
   },
   "keywords": [
     "react",
@@ -23,9 +23,9 @@
   "author": "Elmir Kouliev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elmirkouliev/react-googlemaps-crossstreet/issues"
+    "url": "https://github.com/elmirkouliev/react-component-boilerplate/issues"
   },
-  "homepage": "https://github.com/elmirkouliev/react-googlemaps-crossstreet#readme",
+  "homepage": "https://github.com/elmirkouliev/react-component-boilerplate#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "enzyme-adapter-react-16": "^1.0.1",

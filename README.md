@@ -11,4 +11,6 @@ A boilerplate setup to build a React component that can immediately be made into
 
 `npm run dev` - Runs a webpack dev server that'll host the component. You can also run `npm run watch` in an adjacent console and edit the component while the webpack dev server hot reloads from the changes you make to the source.
 
+Once you're satisfied with your component find an available name on NPM and `npm publish` away.
+
 ### Enjoy!
