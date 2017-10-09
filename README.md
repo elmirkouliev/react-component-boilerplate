@@ -1,7 +1,7 @@
 # react-component-boilerplate
-Boilerplate setup to build a React component for NPM
+A boilerplate setup to build a React component that can immediately be made into a module. See commands below to get set up.
 
-# Set up with the following commapnds
+## Set up with the following commands
 
 `npm run build` - This will build the module and throw it into the root `build` folder
 
@@ -11,4 +11,4 @@ Boilerplate setup to build a React component for NPM
 
 `npm run dev` - Runs a webpack dev server that'll host the component. You can also run `npm run watch` in an adjacent console and edit the component while the webpack dev server hot reloads from the changes you make to the source.
 
-## Enjoy!
+### Enjoy!
