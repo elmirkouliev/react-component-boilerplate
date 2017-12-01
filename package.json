@@ -1,7 +1,7 @@
 {
   "name": "react-npm-starterpack",
   "version": "1.0.0",
-  "description": "Simple way to get cross street completions from the Google Maps API",
+  "description": "React NPM starter pack",
   "main": "build/main.js",
   "scripts": {
     "watch": "webpack --progress --colors --display-error-details --watch",
